@@ -1,8 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>Hi. I'm Lukas.</title><link href="/" rel="alternate"></link><link href="/feeds/lukas-schubsda.atom.xml" rel="self"></link><id>/</id><updated>2016-11-15T00:00:00-08:00</updated><entry><title>Rapid Recruiting</title><link href="/rapid-recruiting.html" rel="alternate"></link><published>2016-11-15T00:00:00-08:00</published><updated>2016-11-15T00:00:00-08:00</updated><author><name>Lukas Schubsda</name></author><id>tag:,2016-11-15:rapid-recruiting.html</id><summary type="html"></summary></entry><entry><title>test</title><link href="/test.html" rel="alternate"></link><published>2016-11-15T00:00:00-08:00</published><updated>2016-11-15T00:00:00-08:00</updated><author><name>Lukas Schubsda</name></author><id>tag:,2016-11-15:test.html</id><summary type="html"></summary></entry><entry><title>Rapid recruiting for iterative studies</title><link href="/rapid-recruiting-for-iterative-studies.html" rel="alternate"></link><published>2016-11-01T00:00:00-07:00</published><updated>2016-11-01T00:00:00-07:00</updated><author><name>Lukas Schubsda</name></author><id>tag:,2016-11-01:rapid-recruiting-for-iterative-studies.html</id><summary type="html">&lt;p&gt;What was the business problem? What was the approach? What were the results? What was the impact?&lt;/p&gt;
+<feed xmlns="http://www.w3.org/2005/Atom"><title>Hi. I'm Lukas.</title><link href="/" rel="alternate"></link><link href="/feeds/lukas-schubsda.atom.xml" rel="self"></link><id>/</id><updated>2016-11-15T00:00:00-08:00</updated><entry><title>Rapid Recruiting</title><link href="/rapid-recruiting.html" rel="alternate"></link><published>2016-11-15T00:00:00-08:00</published><updated>2016-11-15T00:00:00-08:00</updated><author><name>Lukas Schubsda</name></author><id>tag:,2016-11-15:rapid-recruiting.html</id><summary type="html"></summary></entry><entry><title>Rapid recruiting for iterative studies</title><link href="/rapid-recruiting-for-iterative-studies.html" rel="alternate"></link><published>2016-11-01T00:00:00-07:00</published><updated>2016-11-01T00:00:00-07:00</updated><author><name>Lukas Schubsda</name></author><id>tag:,2016-11-01:rapid-recruiting-for-iterative-studies.html</id><summary type="html">&lt;p&gt;What was the business problem? What was the approach? What were the results? What was the impact?&lt;/p&gt;
 &lt;h2&gt;Rapid Recruiting for Iterative Studies&lt;/h2&gt;</summary></entry><entry><title>ARE THE THINGS WE SHIP ACTUALLY BEING USED?</title><link href="/are-the-things-we-ship-actually-being-used.html" rel="alternate"></link><published>2016-10-15T00:00:00-07:00</published><updated>2016-10-15T00:00:00-07:00</updated><author><name>Lukas Schubsda</name></author><id>tag:,2016-10-15:are-the-things-we-ship-actually-being-used.html</id><summary type="html">&lt;p&gt;&amp;nbsp;
 &amp;nbsp;
 &lt;div style="text-align:left"&gt; &lt;/p&gt;
+&lt;h3&gt;Summary&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;em&gt;What was the business challenge?&lt;/em&gt; - The product team was unable to make informed decisions quickly as to which features should be prioirtized for the roadmap and future iterations.&lt;/li&gt;
+&lt;/ul&gt;
 &lt;h3&gt;Problem&lt;/h3&gt;
 &lt;p&gt;Product teams need to build products that are valuable to users. &lt;/p&gt;
 &lt;blockquote&gt;
@@ -73,13 +77,57 @@ data &lt;span class="o"&gt;&amp;lt;-&lt;/span&gt; GET&lt;span class="p"&gt;(&lt;
 &lt;/pre&gt;&lt;/div&gt;
 
 
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
 &lt;h4&gt;&lt;em&gt;Visualize&lt;/em&gt;&lt;/h4&gt;
-&lt;p&gt;The data was then visualized using &lt;em&gt;ggplot2&lt;/em&gt;, and displayed in a dashboard. 
-&lt;div style="text-align:center"&gt; 
-&lt;img alt="alt text" src="images/portfolio/feature-usage-3.png" /&gt;
-&lt;/div&gt;&lt;/p&gt;
+&lt;p&gt;The data was then visualized using &lt;em&gt;ggplot2&lt;/em&gt;, and displayed in a dashboard.&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;&lt;img alt="alt text" src="images/portfolio/feature-usage-3.png" /&gt;&lt;/p&gt;
 &lt;p&gt;Right away, you can see that &lt;em&gt;Feautes A&lt;/em&gt; and &lt;em&gt;D&lt;/em&gt; see quite a bit more usage than &lt;em&gt;Featues B&lt;/em&gt; and &lt;em&gt;C&lt;/em&gt;. Visualizations like this can bring a lot of insight to a product team. For example, Product Managers at Wrap Media no longer had to guess which features in the product were being used more than others. &lt;/p&gt;
 &lt;blockquote&gt;
 &lt;p&gt;&lt;strong&gt;Product acted on these insights to priortitize roadmap planning and product iterations.&lt;/strong&gt;&lt;/p&gt;
 &lt;/blockquote&gt;
-&lt;/div&gt;</summary></entry></feed>
+&lt;/div&gt;</summary></entry><entry><title>Why do consumers bounce?</title><link href="/why-do-consumers-bounce.html" rel="alternate"></link><published>2016-10-15T00:00:00-07:00</published><updated>2016-10-15T00:00:00-07:00</updated><author><name>Lukas Schubsda</name></author><id>tag:,2016-10-15:why-do-consumers-bounce.html</id><summary type="html">&lt;p&gt;&amp;nbsp;
+&amp;nbsp;
+&lt;div style="text-align:left"&gt; &lt;/p&gt;
+&lt;h3&gt;Problem&lt;/h3&gt;
+&lt;p&gt;The product team at my last startup didn't have the time nor budget to conduct large, all-encompassing user research. Rather, they needed focused insights to fuel weekly product decisions. The need for these kind of insights was evident: we often times spent way to long arguing about what users needed and whether they would use certain features, consistently going over the set meeting time.&lt;/p&gt;
+&lt;p&gt;One particular topic was especially important: The high bounce rate of our consumer product, the &lt;a href="www.example-wrap.com"&gt;Wrap Viewer&lt;/a&gt;. We were tracking bounce rate through our analytics team, but didn't know why this could be the case. Several camps, supporting different hypothesis had formed as to why this could be. I set out to conduct qualitative studies to get to the root of the problem. &lt;/p&gt;
+&lt;p&gt;--&amp;gt;add outcome&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;h3&gt;Preparation&lt;/h3&gt;
+&lt;p&gt;In my situation, the ingredients for focused, iterative studies that deliver clear and actioable insights at a rapid pace were as follows:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;em&gt;Focused problem&lt;/em&gt; - to avoid boiling the ocean and drowning in analysis paralysis that lead to broad, too-general read-outs it was important to get together with the team and clearly define the problem and questions that we hoped to address with the studies.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;em&gt;Clear hypotheses&lt;/em&gt; - it turned out that the team already had some great guesses as to why users may be bouncing. I made sure to include them as hypotheses in our research plan to cover what people were dying to validate.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;em&gt;Know what you don't know&lt;/em&gt; - it was important to tell the team what could not easily be answered through user research sessions. This helped set expectations and opened up an opportunity for future, cross-disciplinary research.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;em&gt;Plan synthesis ahead&lt;/em&gt; - since the team needed to get answers fast, it was important for me to organize synthesis ahead of time. This allowed me to hit the ground running as soon as I had conducted my sessions.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;It was Wednesday during our weekly product meeting that that I convinced my team that user insights can help make a decision. I had 1 week until next Wednesday to present my findings.&lt;/p&gt;
+&lt;h3&gt;Action&lt;/h3&gt;
+&lt;h4&gt;Thursday - Day 1&lt;/h4&gt;
+&lt;p&gt;Day 1 was all about &lt;em&gt;focusing on the right problem&lt;/em&gt; and &lt;em&gt;forming clear hypothesis&lt;/em&gt;. On Wednesday afternoon I scrambled to set up meetings with the two stakeholders that were closest to the project. In individual 30 min 1-1 meetings, I collected their insights on the issue and gathered their hypotheses.  &lt;/p&gt;
+&lt;p&gt;Armed with a fresh perspective, I spent some time Thursday afternoon writing the research proposal for review then next day.&lt;/p&gt;
+&lt;p&gt;It looked like this:&lt;/p&gt;
+&lt;p&gt;--&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Background&lt;/strong&gt;&lt;br /&gt;
+Bounce rate metrics for the Wrap viewer consistently show a high bounce rate around ~70%. The team has several hypotheses why this could be the case, some of which can be investigated via quick, iterative user studies. The goal is to have insights into bounce rate by Wed of next week that will help decide how much effort should be spent on re-desigining the Wrap Viewer.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Goals&lt;/strong&gt;&lt;br /&gt;
+Form weighted hypotheses to reasons for bounce rate on which preliminary decisiosn can be made, and which can be validated in further studies.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Research Question&lt;/strong&gt;  &lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Why do users bounce after the Wrap Viewer is loaded?&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Hypotheses&lt;/strong&gt;  &lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Users don't swipe into the Wrap - can be verified&lt;/li&gt;
+&lt;li&gt;Users are not interested in content - cannot be verified&lt;/li&gt;
+&lt;li&gt;Users abonden the wrap before it loads - can be verified&lt;/li&gt;
+&lt;/ul&gt;</summary></entry></feed>
