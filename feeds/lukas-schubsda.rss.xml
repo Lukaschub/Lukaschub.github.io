@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0"><channel><title>Hi. I'm Lukas.</title><link>/</link><description>I like getting to the root of things.</description><lastBuildDate>Sat, 15 Oct 2016 00:00:00 -0700</lastBuildDate><item><title>Are our metrics actionable?</title><link>/are-our-metrics-actionable.html</link><description>&lt;p&gt;&amp;nbsp;
+<rss version="2.0"><channel><title>Hi. I'm Lukas.</title><link>/</link><description>I like getting to the root of things.</description><lastBuildDate>Mon, 12 Dec 2016 00:00:00 -0800</lastBuildDate><item><title>My first post</title><link>/my-first-post.html</link><description>&lt;p&gt;&amp;nbsp;
 &amp;nbsp;
 &lt;div style="text-align:left"&gt; &lt;/p&gt;
 &lt;h3&gt;Problem&lt;/h3&gt;
@@ -29,7 +29,8 @@
 &lt;iframe src="https://docs.google.com/presentation/d/1TZDMADEItF6eUTHI9LGQvBdKWkxoS7fSzDSbujGjBNU/embed?start=false&amp;loop=false&amp;delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"&gt;&lt;/iframe&gt;
 
 &lt;h3&gt;Impact&lt;/h3&gt;
-&lt;p&gt;The framework was used to create product insight dashboards, tell data stories to clients, and help the team focus on a handful of metrics that really mattered. &lt;/p&gt;</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Lukas Schubsda</dc:creator><pubDate>Sat, 15 Oct 2016 00:00:00 -0700</pubDate><guid isPermaLink="false">tag:,2016-10-15:are-our-metrics-actionable.html</guid></item><item><title>ARE THE THINGS WE SHIP ACTUALLY BEING USED?</title><link>/are-the-things-we-ship-actually-being-used.html</link><description>&lt;p&gt;&amp;nbsp;
+&lt;p&gt;The framework was used to create product insight dashboards, tell data stories to clients, and help the team focus on a handful of metrics that really mattered. &lt;/p&gt;
+&lt;/div&gt;</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Lukas Schubsda</dc:creator><pubDate>Mon, 12 Dec 2016 00:00:00 -0800</pubDate><guid isPermaLink="false">tag:,2016-12-12:my-first-post.html</guid></item><item><title>ARE THE THINGS WE SHIP ACTUALLY BEING USED?</title><link>/are-the-things-we-ship-actually-being-used.html</link><description>&lt;p&gt;&amp;nbsp;
 &amp;nbsp;
 &lt;div style="text-align:left"&gt; &lt;/p&gt;
 &lt;h3&gt;Problem&lt;/h3&gt;
@@ -123,7 +124,7 @@ data &lt;span class="o"&gt;&amp;lt;-&lt;/span&gt; GET&lt;span class="p"&gt;(&lt;
 &lt;blockquote&gt;
 &lt;p&gt;&lt;strong&gt;Product acted on these insights to prioritize roadmap planning and product iterations.&lt;/strong&gt;&lt;/p&gt;
 &lt;/blockquote&gt;
-&lt;/div&gt;</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Lukas Schubsda</dc:creator><pubDate>Sat, 15 Oct 2016 00:00:00 -0700</pubDate><guid isPermaLink="false">tag:,2016-10-15:are-the-things-we-ship-actually-being-used.html</guid></item><item><title>Why do users bounce?</title><link>/why-do-users-bounce.html</link><description>&lt;p&gt;&amp;nbsp;
+&lt;/div&gt;</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Lukas Schubsda</dc:creator><pubDate>Tue, 18 Oct 2016 00:00:00 -0700</pubDate><guid isPermaLink="false">tag:,2016-10-18:are-the-things-we-ship-actually-being-used.html</guid></item><item><title>Why do users bounce?</title><link>/why-do-users-bounce.html</link><description>&lt;p&gt;&amp;nbsp;
 &amp;nbsp;
 &lt;div style="text-align:left"&gt; &lt;/p&gt;
 &lt;h3&gt;Problem&lt;/h3&gt;
@@ -152,4 +153,4 @@ data &lt;span class="o"&gt;&amp;lt;-&lt;/span&gt; GET&lt;span class="p"&gt;(&lt;
 &lt;p&gt;&amp;nbsp;&lt;/p&gt;
 &lt;h3&gt;Impact&lt;/h3&gt;
 &lt;p&gt;The result of the studies showed that the users' very 1st action was not a swipe into the next card, but a scroll, resulting in a few crucial seconds of confusion and inaction. Consequently, the team designed an &lt;a href="https://wrap.co/wraps/34f223ec-0766-4c76-bb17-6d26cc932e2a"&gt;evolved cover-card experience&lt;/a&gt; to elicit an immediate swipe from the user. &lt;/p&gt;
-&lt;p&gt;I then conducted a follow-up study which showed that users immediately swiped into the next card when presented with the new design. I also worked together with the analytics team to conduct A/B tests to prove statically that the new design caused a reduction in bounce rate.&lt;/p&gt;</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Lukas Schubsda</dc:creator><pubDate>Sat, 15 Oct 2016 00:00:00 -0700</pubDate><guid isPermaLink="false">tag:,2016-10-15:why-do-users-bounce.html</guid></item></channel></rss>
+&lt;p&gt;I then conducted a follow-up study which showed that users immediately swiped into the next card when presented with the new design. I also worked together with the analytics team to conduct A/B tests to prove statically that the new design caused a reduction in bounce rate.&lt;/p&gt;</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Lukas Schubsda</dc:creator><pubDate>Mon, 10 Oct 2016 00:00:00 -0700</pubDate><guid isPermaLink="false">tag:,2016-10-10:why-do-users-bounce.html</guid></item></channel></rss>
