@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>Hi. I'm Lukas.</title><link href="/" rel="alternate"></link><link href="/feeds/lukas-schubsda.atom.xml" rel="self"></link><id>/</id><updated>2016-12-12T00:00:00-08:00</updated><entry><title>What can we do with our metrics?</title><link href="/what-can-we-do-with-our-metrics.html" rel="alternate"></link><published>2016-12-12T00:00:00-08:00</published><updated>2016-12-12T00:00:00-08:00</updated><author><name>Lukas Schubsda</name></author><id>tag:,2016-12-12:what-can-we-do-with-our-metrics.html</id><summary type="html">&lt;iframe src="https://docs.google.com/presentation/d/1TZDMADEItF6eUTHI9LGQvBdKWkxoS7fSzDSbujGjBNU/embed?start=false&amp;loop=false&amp;delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"&gt;&lt;/iframe&gt;
+<feed xmlns="http://www.w3.org/2005/Atom"><title>Hi. I'm Lukas.</title><link href="/" rel="alternate"></link><link href="/feeds/lukas-schubsda.atom.xml" rel="self"></link><id>/</id><updated>2016-12-12T00:00:00-08:00</updated><entry><title>What can we do with our metrics?</title><link href="/what-can-we-do-with-our-metrics.html" rel="alternate"></link><published>2016-12-12T00:00:00-08:00</published><updated>2016-12-12T00:00:00-08:00</updated><author><name>Lukas Schubsda</name></author><id>tag:,2016-12-12:what-can-we-do-with-our-metrics.html</id><summary type="html">&lt;iframe src="https://docs.google.com/presentation/d/1TZDMADEItF6eUTHI9LGQvBdKWkxoS7fSzDSbujGjBNU/embed?start=false&amp;loop=false&amp;delayms=3000" frameborder="0" width="100%" height="435" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"&gt;&lt;/iframe&gt;
 
 &lt;p&gt;&amp;nbsp;
 &amp;nbsp;
@@ -36,11 +36,9 @@
 &lt;em&gt;Action&lt;/em&gt; - Customer success to reach out to schedule an interview with customer. Prepare for add'l qual studies to investigate further.  &lt;/p&gt;
 &lt;/blockquote&gt;
 &lt;p&gt;The result was a metrics framework to collect and measure meaningful data.&lt;/p&gt;
-&lt;iframe src="https://docs.google.com/presentation/d/1TZDMADEItF6eUTHI9LGQvBdKWkxoS7fSzDSbujGjBNU/embed?start=false&amp;loop=false&amp;delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"&gt;&lt;/iframe&gt;
-
 &lt;h3&gt;Impact&lt;/h3&gt;
 &lt;p&gt;The framework was used to create product insight dashboards, tell data stories to clients, and help the team focus on a handful of metrics that really mattered. &lt;/p&gt;
-&lt;/div&gt;</summary></entry><entry><title>Are the products we ship being used?</title><link href="/are-the-products-we-ship-being-used.html" rel="alternate"></link><published>2016-11-12T00:00:00-08:00</published><updated>2016-11-12T00:00:00-08:00</updated><author><name>Lukas Schubsda</name></author><id>tag:,2016-11-12:are-the-products-we-ship-being-used.html</id><summary type="html">&lt;iframe src="https://docs.google.com/presentation/d/e/2PACX-1vRwhuTF-qoDVskAFPCQ2CO7hwqlQ0_KcWi8tXABeObDSnSPSFG5dm7hC4T4UoLKBNMap586y7cfxccu/embed?start=false&amp;loop=false&amp;delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"&gt;&lt;/iframe&gt;
+&lt;/div&gt;</summary></entry><entry><title>Are the products we ship being used?</title><link href="/are-the-products-we-ship-being-used.html" rel="alternate"></link><published>2016-11-12T00:00:00-08:00</published><updated>2016-11-12T00:00:00-08:00</updated><author><name>Lukas Schubsda</name></author><id>tag:,2016-11-12:are-the-products-we-ship-being-used.html</id><summary type="html">&lt;iframe src="https://docs.google.com/presentation/d/e/2PACX-1vRwhuTF-qoDVskAFPCQ2CO7hwqlQ0_KcWi8tXABeObDSnSPSFG5dm7hC4T4UoLKBNMap586y7cfxccu/embed?start=false&amp;loop=false&amp;delayms=3000" frameborder="0" width="100%" height="435" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"&gt;&lt;/iframe&gt;
 
 &lt;p&gt;&amp;nbsp;
 &amp;nbsp;
@@ -80,8 +78,6 @@ Right away, you can see that &lt;em&gt;Features A&lt;/em&gt; and &lt;em&gt;D&lt;
 &lt;blockquote&gt;
 &lt;p&gt;&lt;strong&gt;Product acted on these insights to prioritize roadmap planning and product iterations.&lt;/strong&gt;&lt;/p&gt;
 &lt;/blockquote&gt;
-&lt;iframe src="https://docs.google.com/presentation/d/1TZDMADEItF6eUTHI9LGQvBdKWkxoS7fSzDSbujGjBNU/embed?start=false&amp;loop=false&amp;delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"&gt;&lt;/iframe&gt;
-
 &lt;p&gt;--&lt;/p&gt;
 &lt;h3&gt;Details&lt;/h3&gt;
 &lt;p&gt;At Wrap Media, all our event data was collected by &lt;a href="https://www.fullstory.com/"&gt;FullStory&lt;/a&gt;, and available through their &lt;a href="http://help.fullstory.com/technical-questions/data-export"&gt;Rest API&lt;/a&gt;. As a team, we came up with a plan to measure product usage.&lt;/p&gt;
@@ -137,7 +133,7 @@ data &lt;span class="o"&gt;&amp;lt;-&lt;/span&gt; GET&lt;span class="p"&gt;(&lt;
 &lt;blockquote&gt;
 &lt;p&gt;&lt;strong&gt;Product acted on these insights to prioritize roadmap planning and product iterations.&lt;/strong&gt;&lt;/p&gt;
 &lt;/blockquote&gt;
-&lt;/div&gt;</summary></entry><entry><title>Why do Wrap viewers bounce?</title><link href="/why-do-wrap-viewers-bounce.html" rel="alternate"></link><published>2016-10-12T00:00:00-07:00</published><updated>2016-10-12T00:00:00-07:00</updated><author><name>Lukas Schubsda</name></author><id>tag:,2016-10-12:why-do-wrap-viewers-bounce.html</id><summary type="html">&lt;iframe src="https://docs.google.com/presentation/d/e/2PACX-1vRPSX6NLYuSd2-yjR4nfGTg6LL7KWs9L9F4N8_CCb-MLtJT7EQg1ms1w4ZYvaRDE2YucWCso5pzKcjh/embed?start=false&amp;loop=false&amp;delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"&gt;&lt;/iframe&gt;
+&lt;/div&gt;</summary></entry><entry><title>Why do Wrap viewers bounce?</title><link href="/why-do-wrap-viewers-bounce.html" rel="alternate"></link><published>2016-10-12T00:00:00-07:00</published><updated>2016-10-12T00:00:00-07:00</updated><author><name>Lukas Schubsda</name></author><id>tag:,2016-10-12:why-do-wrap-viewers-bounce.html</id><summary type="html">&lt;iframe src="https://docs.google.com/presentation/d/e/2PACX-1vRPSX6NLYuSd2-yjR4nfGTg6LL7KWs9L9F4N8_CCb-MLtJT7EQg1ms1w4ZYvaRDE2YucWCso5pzKcjh/embed?start=false&amp;loop=false&amp;delayms=3000" frameborder="0" width="100%" height="435" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"&gt;&lt;/iframe&gt;
 
 &lt;p&gt;&amp;nbsp;
 &amp;nbsp;

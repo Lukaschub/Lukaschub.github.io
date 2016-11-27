@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0"><channel><title>Hi. I'm Lukas.</title><link>/</link><description>I like getting to the root of things.</description><lastBuildDate>Mon, 12 Dec 2016 00:00:00 -0800</lastBuildDate><item><title>What can we do with our metrics?</title><link>/what-can-we-do-with-our-metrics.html</link><description>&lt;iframe src="https://docs.google.com/presentation/d/1TZDMADEItF6eUTHI9LGQvBdKWkxoS7fSzDSbujGjBNU/embed?start=false&amp;loop=false&amp;delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"&gt;&lt;/iframe&gt;
+<rss version="2.0"><channel><title>Hi. I'm Lukas.</title><link>/</link><description>I like getting to the root of things.</description><lastBuildDate>Mon, 12 Dec 2016 00:00:00 -0800</lastBuildDate><item><title>What can we do with our metrics?</title><link>/what-can-we-do-with-our-metrics.html</link><description>&lt;iframe src="https://docs.google.com/presentation/d/1TZDMADEItF6eUTHI9LGQvBdKWkxoS7fSzDSbujGjBNU/embed?start=false&amp;loop=false&amp;delayms=3000" frameborder="0" width="100%" height="435" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"&gt;&lt;/iframe&gt;
 
 &lt;p&gt;&amp;nbsp;
 &amp;nbsp;
@@ -36,11 +36,9 @@
 &lt;em&gt;Action&lt;/em&gt; - Customer success to reach out to schedule an interview with customer. Prepare for add'l qual studies to investigate further.  &lt;/p&gt;
 &lt;/blockquote&gt;
 &lt;p&gt;The result was a metrics framework to collect and measure meaningful data.&lt;/p&gt;
-&lt;iframe src="https://docs.google.com/presentation/d/1TZDMADEItF6eUTHI9LGQvBdKWkxoS7fSzDSbujGjBNU/embed?start=false&amp;loop=false&amp;delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"&gt;&lt;/iframe&gt;
-
 &lt;h3&gt;Impact&lt;/h3&gt;
 &lt;p&gt;The framework was used to create product insight dashboards, tell data stories to clients, and help the team focus on a handful of metrics that really mattered. &lt;/p&gt;
-&lt;/div&gt;</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Lukas Schubsda</dc:creator><pubDate>Mon, 12 Dec 2016 00:00:00 -0800</pubDate><guid isPermaLink="false">tag:,2016-12-12:what-can-we-do-with-our-metrics.html</guid></item><item><title>Are the products we ship being used?</title><link>/are-the-products-we-ship-being-used.html</link><description>&lt;iframe src="https://docs.google.com/presentation/d/e/2PACX-1vRwhuTF-qoDVskAFPCQ2CO7hwqlQ0_KcWi8tXABeObDSnSPSFG5dm7hC4T4UoLKBNMap586y7cfxccu/embed?start=false&amp;loop=false&amp;delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"&gt;&lt;/iframe&gt;
+&lt;/div&gt;</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Lukas Schubsda</dc:creator><pubDate>Mon, 12 Dec 2016 00:00:00 -0800</pubDate><guid isPermaLink="false">tag:,2016-12-12:what-can-we-do-with-our-metrics.html</guid></item><item><title>Are the products we ship being used?</title><link>/are-the-products-we-ship-being-used.html</link><description>&lt;iframe src="https://docs.google.com/presentation/d/e/2PACX-1vRwhuTF-qoDVskAFPCQ2CO7hwqlQ0_KcWi8tXABeObDSnSPSFG5dm7hC4T4UoLKBNMap586y7cfxccu/embed?start=false&amp;loop=false&amp;delayms=3000" frameborder="0" width="100%" height="435" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"&gt;&lt;/iframe&gt;
 
 &lt;p&gt;&amp;nbsp;
 &amp;nbsp;
@@ -80,8 +78,6 @@ Right away, you can see that &lt;em&gt;Features A&lt;/em&gt; and &lt;em&gt;D&lt;
 &lt;blockquote&gt;
 &lt;p&gt;&lt;strong&gt;Product acted on these insights to prioritize roadmap planning and product iterations.&lt;/strong&gt;&lt;/p&gt;
 &lt;/blockquote&gt;
-&lt;iframe src="https://docs.google.com/presentation/d/1TZDMADEItF6eUTHI9LGQvBdKWkxoS7fSzDSbujGjBNU/embed?start=false&amp;loop=false&amp;delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"&gt;&lt;/iframe&gt;
-
 &lt;p&gt;--&lt;/p&gt;
 &lt;h3&gt;Details&lt;/h3&gt;
 &lt;p&gt;At Wrap Media, all our event data was collected by &lt;a href="https://www.fullstory.com/"&gt;FullStory&lt;/a&gt;, and available through their &lt;a href="http://help.fullstory.com/technical-questions/data-export"&gt;Rest API&lt;/a&gt;. As a team, we came up with a plan to measure product usage.&lt;/p&gt;
@@ -137,7 +133,7 @@ data &lt;span class="o"&gt;&amp;lt;-&lt;/span&gt; GET&lt;span class="p"&gt;(&lt;
 &lt;blockquote&gt;
 &lt;p&gt;&lt;strong&gt;Product acted on these insights to prioritize roadmap planning and product iterations.&lt;/strong&gt;&lt;/p&gt;
 &lt;/blockquote&gt;
-&lt;/div&gt;</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Lukas Schubsda</dc:creator><pubDate>Sat, 12 Nov 2016 00:00:00 -0800</pubDate><guid isPermaLink="false">tag:,2016-11-12:are-the-products-we-ship-being-used.html</guid></item><item><title>Why do Wrap viewers bounce?</title><link>/why-do-wrap-viewers-bounce.html</link><description>&lt;iframe src="https://docs.google.com/presentation/d/e/2PACX-1vRPSX6NLYuSd2-yjR4nfGTg6LL7KWs9L9F4N8_CCb-MLtJT7EQg1ms1w4ZYvaRDE2YucWCso5pzKcjh/embed?start=false&amp;loop=false&amp;delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"&gt;&lt;/iframe&gt;
+&lt;/div&gt;</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Lukas Schubsda</dc:creator><pubDate>Sat, 12 Nov 2016 00:00:00 -0800</pubDate><guid isPermaLink="false">tag:,2016-11-12:are-the-products-we-ship-being-used.html</guid></item><item><title>Why do Wrap viewers bounce?</title><link>/why-do-wrap-viewers-bounce.html</link><description>&lt;iframe src="https://docs.google.com/presentation/d/e/2PACX-1vRPSX6NLYuSd2-yjR4nfGTg6LL7KWs9L9F4N8_CCb-MLtJT7EQg1ms1w4ZYvaRDE2YucWCso5pzKcjh/embed?start=false&amp;loop=false&amp;delayms=3000" frameborder="0" width="100%" height="435" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"&gt;&lt;/iframe&gt;
 
 &lt;p&gt;&amp;nbsp;
 &amp;nbsp;
