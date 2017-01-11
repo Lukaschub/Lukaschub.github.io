@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0"><channel><title>Hi. I'm Lukas.</title><link>/</link><description>UX researcher, trumpet player, and life-long learner.</description><lastBuildDate>Wed, 11 Jan 2017 00:00:00 -0800</lastBuildDate><item><title>Sample SQL queries</title><link>/sample-sql-queries.html</link><description>&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+<rss version="2.0"><channel><title>Hi. I'm Lukas.</title><link>/</link><description>UX researcher, trumpet player, and lifelong learner.</description><lastBuildDate>Wed, 11 Jan 2017 00:00:00 -0800</lastBuildDate><item><title>Sample SQL queries</title><link>/sample-sql-queries.html</link><description>&lt;p&gt;&amp;nbsp;&lt;/p&gt;
 &lt;h3&gt;Background&lt;/h3&gt;
 &lt;p&gt;As the User Researcher with the mobile tech startup Wrap Media in San Francisco I often times needed to use data to answer product questions. A lot of that data was stored in a PostgreSQL database, and I wrote quite a few SQL queries to get what I needed for my analyses and visualizations. &lt;/p&gt;
 &lt;p&gt;To give you a sense of my competency with SQL, here are a few sample queries I wrote. A lot of them are also from &lt;a href="https://www.coursera.org/account/accomplishments/certificate/S9ZKT8YWFXZM"&gt;Duke University's "Managing Big Data with MySQL" course on Coursera&lt;/a&gt;, which I recently completed.&lt;/p&gt;
